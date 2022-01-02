@@ -1,4 +1,4 @@
-// Write a program to print fibonacci series
+// Write a program to print fibonacci series.
 
 import java.util.*;  
 public class Fibonacci_Series{
